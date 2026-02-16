@@ -29,10 +29,6 @@ Web security training covering:
 - Secure coding concepts
 - Practical exploitation labs
 
----
-
-## Additional Certifications
-(Add any PDF certificates here)
 
 ---
 
